@@ -1,2 +1,2 @@
 # projects
-Its is a repo for all the awesome projects
+It's a repo for all the awesome projects
